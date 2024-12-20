@@ -15,6 +15,7 @@ const certificados = [
   { nome: "Python: Avançando na Linguagem", instituicao: "Alura", ano: 2024, url: "src/pdfs/Richard Esley Silva Oliveira - Curso Python_ avançando na linguagem - Alura.pdf" },
   { nome: "Pyhon: Orientação a Objetos", instituicao: "Alura", ano: 2024, url: "src/pdfs/Richard Esley Silva Oliveira - Curso Python_ entendendo a Orientação a Objetos - Alura.pdf" },
   { nome: "Boas Práticas em Python: Pacotes, Banco de Dados e Desenvolvimento Web", instituicao: "DIO", ano: 2024, url: "src/pdfs/Richard Esley Silva Oliveira - Curso Boas práticas em Python.pdf" },
+  { nome: "Formação Fundamentos de Inteligência Artificial", instituicao: "DIO", ano: 2024, url: "src/pdfs/Richard Esley Silva Oliveira - Formação Fundamentos de Inteligência Artificial.pdf"},
   { nome: "Desenvolvimento de APIS em Python com Flask", instituicao: "DIO", ano: 2024},
 ];
 
