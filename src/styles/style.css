@@ -141,6 +141,10 @@ main {
   color: var(--text-color);
 }
 
+counter {
+  color: rgb(35, 105, 211);
+}
+
 /* Estilo para a seção de Contato */
 #contato {
   margin-top: 40px;
